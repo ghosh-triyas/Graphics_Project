@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>rock_breaking.mp3</file>
+        <file>../../../Downloads/rock_breaking.wav</file>
+    </qresource>
+</RCC>
